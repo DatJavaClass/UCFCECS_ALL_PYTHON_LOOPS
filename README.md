@@ -1,4 +1,4 @@
-# UCF Assisted Learnubg Lab Python Loops, Bv Victor S, Based on Python 2. Maybe compatible with future Verisions |Updated from 2011-2026 by Victor S|
+# UCF Assisted Learning Lab Python Loops, Bv Victor S, Based on Python 2. Maybe compatible with future Verisions |Updated from 2011-2026 by Victor S|
 
 # Printing Patterns with Nested Loops in Python
 
