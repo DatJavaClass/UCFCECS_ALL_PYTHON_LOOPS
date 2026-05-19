@@ -199,4 +199,4 @@ Once you see the recipe, every pattern is a variation on it.
 
 ---
 
-If you have any questions, please reach out to DatJavaClass or Victor S. On Slack
+If you have any questions, or want [other examples](https://github.com/DatJavaClass/UCFCECS_ALL_PYTHON_LOOPS.git) please reach out to DatJavaClass or Victor S. On Slack
